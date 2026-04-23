@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="580" height="56" viewBox="0 0 580 56">
+  <rect width="580" height="56" rx="14" fill="#1a1a2e"/>
+  <text x="290" y="22" text-anchor="middle" fill="#45c9a0" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif" font-size="13" font-weight="600" letter-spacing="0.3">&#x1F50A; Sound notifications for every Gemini CLI hook event</text>
+  <text x="290" y="42" text-anchor="middle" fill="#8b8ba0" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif" font-size="12" letter-spacing="0.3">Session, agent, model, and tool lifecycle — all 11 hooks</text>
+</svg>

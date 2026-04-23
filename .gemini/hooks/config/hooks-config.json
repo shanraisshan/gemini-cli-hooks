@@ -1,0 +1,14 @@
+{
+  "disableSessionStartHook": false,
+  "disableSessionEndHook": false,
+  "disableBeforeAgentHook": false,
+  "disableAfterAgentHook": false,
+  "disableBeforeModelHook": false,
+  "disableAfterModelHook": false,
+  "disableBeforeToolSelectionHook": false,
+  "disableBeforeToolHook": false,
+  "disableAfterToolHook": false,
+  "disablePreCompressHook": false,
+  "disableNotificationHook": false,
+  "disableLogging": true
+}

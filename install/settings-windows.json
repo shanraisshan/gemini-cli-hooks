@@ -1,0 +1,126 @@
+{
+  "disableAllHooks": false,
+  "hooks": {
+    "SessionStart": [
+      {
+        "hooks": [
+          {
+            "type": "command",
+            "command": "python .gemini/hooks/scripts/hooks.py",
+            "timeout": 5000
+          }
+        ]
+      }
+    ],
+    "SessionEnd": [
+      {
+        "hooks": [
+          {
+            "type": "command",
+            "command": "python .gemini/hooks/scripts/hooks.py",
+            "timeout": 5000
+          }
+        ]
+      }
+    ],
+    "BeforeAgent": [
+      {
+        "hooks": [
+          {
+            "type": "command",
+            "command": "python .gemini/hooks/scripts/hooks.py",
+            "timeout": 5000
+          }
+        ]
+      }
+    ],
+    "AfterAgent": [
+      {
+        "hooks": [
+          {
+            "type": "command",
+            "command": "python .gemini/hooks/scripts/hooks.py",
+            "timeout": 5000
+          }
+        ]
+      }
+    ],
+    "BeforeModel": [
+      {
+        "hooks": [
+          {
+            "type": "command",
+            "command": "python .gemini/hooks/scripts/hooks.py",
+            "timeout": 5000
+          }
+        ]
+      }
+    ],
+    "AfterModel": [
+      {
+        "hooks": [
+          {
+            "type": "command",
+            "command": "python .gemini/hooks/scripts/hooks.py",
+            "timeout": 5000
+          }
+        ]
+      }
+    ],
+    "BeforeToolSelection": [
+      {
+        "hooks": [
+          {
+            "type": "command",
+            "command": "python .gemini/hooks/scripts/hooks.py",
+            "timeout": 5000
+          }
+        ]
+      }
+    ],
+    "BeforeTool": [
+      {
+        "hooks": [
+          {
+            "type": "command",
+            "command": "python .gemini/hooks/scripts/hooks.py",
+            "timeout": 5000
+          }
+        ]
+      }
+    ],
+    "AfterTool": [
+      {
+        "hooks": [
+          {
+            "type": "command",
+            "command": "python .gemini/hooks/scripts/hooks.py",
+            "timeout": 5000
+          }
+        ]
+      }
+    ],
+    "PreCompress": [
+      {
+        "hooks": [
+          {
+            "type": "command",
+            "command": "python .gemini/hooks/scripts/hooks.py",
+            "timeout": 5000
+          }
+        ]
+      }
+    ],
+    "Notification": [
+      {
+        "hooks": [
+          {
+            "type": "command",
+            "command": "python .gemini/hooks/scripts/hooks.py",
+            "timeout": 5000
+          }
+        ]
+      }
+    ]
+  }
+}
