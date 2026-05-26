@@ -1,5 +1,5 @@
 # Gemini CLI Hooks
-[![Hooks](https://img.shields.io/badge/supports%20all-11%20hooks-white?style=flat&labelColor=555)](https://github.com/shanraisshan/gemini-cli-hooks/blob/main/.gemini/hooks/HOOKS-README.md#hook-events-overview--official-11-hooks) [![Version](https://img.shields.io/badge/updated%20with%20Gemini%20CLI-v0.38.2%20(Apr%2022%2C%202026%2007:56%20PM%20PKT)-white?style=flat&labelColor=555)](https://github.com/google-gemini/gemini-cli/releases) [![Stars](https://img.shields.io/github/stars/shanraisshan/gemini-cli-hooks?style=flat&label=%E2%98%85&labelColor=555&color=white)](https://github.com/shanraisshan/gemini-cli-hooks)
+[![Hooks](https://img.shields.io/badge/supports%20all-11%20hooks-white?style=flat&labelColor=555)](https://github.com/shanraisshan/gemini-cli-hooks/blob/main/.gemini/hooks/HOOKS-README.md#hook-events-overview--official-11-hooks) [![Version](https://img.shields.io/badge/updated%20with%20Gemini%20CLI-v0.43.0%20(May%2026%2C%202026%2009:36%20PM%20PKT)-white?style=flat&labelColor=555)](https://github.com/google-gemini/gemini-cli/releases) [![Stars](https://img.shields.io/github/stars/shanraisshan/gemini-cli-hooks?style=flat&label=%E2%98%85&labelColor=555&color=white)](https://github.com/shanraisshan/gemini-cli-hooks)
 
 <p align="center">
   <img src="!/gemini-speaking.svg" alt="Gemini CLI mascot speaking" width="176" height="158">
