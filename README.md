@@ -73,4 +73,4 @@ Verify Python 3 is installed (`python3 --version`) and that `.gemini/hooks/scrip
 
 If you like my work, buy me a doodh patti 🍵 on
 
-<a href="https://buy.polar.sh/polar_cl_cIMlrzYRInDIRBSWU9kSsxaTbiAQm3AVayOot4DIrt8"><img src="!/tags/polar.svg" alt="Polar" width="40" height="40" align="center"></a> <a href="https://buy.polar.sh/polar_cl_cIMlrzYRInDIRBSWU9kSsxaTbiAQm3AVayOot4DIrt8"><strong>Polar</strong></a>
+<a href="https://buy.polar.sh/polar_cl_7uBOTcVcWZDFuFUnzNeWftmbHi2gLv4Nawz892SiTa8"><img src="!/tags/polar.svg" alt="Polar" width="40" height="40" align="center"></a> <a href="https://buy.polar.sh/polar_cl_7uBOTcVcWZDFuFUnzNeWftmbHi2gLv4Nawz892SiTa8"><strong>Polar</strong></a>
